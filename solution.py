@@ -8,7 +8,7 @@ def solution(x: np.array) -> float:
     t = 62.0
     t_squared = t ** 2
     solutions = (2 * x) / t_squared
-        # Измените код этой функции
+    # Измените код этой функции
     # Это будет вашим решениеsolutionsм
     # Не меняйте название функции и её аргументы
     return x.mean(solutions) # Ваш ответ
